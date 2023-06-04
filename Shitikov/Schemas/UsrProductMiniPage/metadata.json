@@ -1,0 +1,15 @@
+= MetaData.Schema.UId "272e4fd4-ec16-42cb-82d5-bd2e707fb7d1"
+= MetaData.Schema.A2 "UsrProductMiniPage"
+= MetaData.Schema.A5 "be59f025-22b2-46dc-9fa1-2f27b60a9f62"
+= MetaData.Schema.B2.["a054d45a-e826-460c-8478-c4bfc1a08a0d"].A4 "272e4fd4-ec16-42cb-82d5-bd2e707fb7d1"
+= MetaData.Schema.B2.["a054d45a-e826-460c-8478-c4bfc1a08a0d"].A5 "b0284d82-b068-4fd7-b853-572ff070cad0"
+= MetaData.Schema.B2.["147850c9-2b90-4432-b075-ad078f75ff3b"].A4 "272e4fd4-ec16-42cb-82d5-bd2e707fb7d1"
+= MetaData.Schema.B2.["147850c9-2b90-4432-b075-ad078f75ff3b"].A5 "b0284d82-b068-4fd7-b853-572ff070cad0"
+= MetaData.Schema.B2.["5fe0512f-ad76-4f3f-bef7-fbf81c5230a9"].A4 "272e4fd4-ec16-42cb-82d5-bd2e707fb7d1"
+= MetaData.Schema.B2.["5fe0512f-ad76-4f3f-bef7-fbf81c5230a9"].A5 "b0284d82-b068-4fd7-b853-572ff070cad0"
+~ MetaData.Schema.B2 ["a054d45a-e826-460c-8478-c4bfc1a08a0d","147850c9-2b90-4432-b075-ad078f75ff3b","5fe0512f-ad76-4f3f-bef7-fbf81c5230a9"]
+= MetaData.Schema.B6 "3c6162d1-2fec-a276-3e4f-02ddb7557976"
+= MetaData.Schema.B8 "7.17.4.2265"
+= MetaData.Schema.HD5 []
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="UsrProductEventListener" />
+			<Item Name="LocalizableStrings.ProductHasDoubleErrorMessage.Value" Value="Невозможно создать запись, найдены дубли по полю Название" />
+		</Items>
+	</Group>
+</Resources>

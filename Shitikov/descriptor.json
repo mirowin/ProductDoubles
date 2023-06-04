@@ -1,0 +1,30 @@
+﻿{
+  "Descriptor": {
+    "UId": "3c6162d1-2fec-a276-3e4f-02ddb7557976",
+    "Name": "Shitikov",
+    "ModifiedOnUtc": "\/Date(1685799956000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      },
+      {
+        "UId": "3d3ced06-8d6d-4076-a213-68678ade00cd",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCatalogue"
+      },
+      {
+        "UId": "5be3998b-c5c3-42bb-a01c-2e4149059a97",
+        "PackageVersion": "7.8.0",
+        "Name": "Base"
+      },
+      {
+        "UId": "a7d9c356-450c-46d7-bc85-72dca4e280ba",
+        "PackageVersion": "7.8.0",
+        "Name": "NUI"
+      }
+    ]
+  }
+}
